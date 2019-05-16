@@ -1,2 +1,3 @@
 # leetcode
-xxxxxxx
+do exercise
+//for a record
